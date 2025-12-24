@@ -31,30 +31,30 @@
 
 ### 📚 Academic & Course Projects
 
-- **[CS3324-IQA](https://github.com/ukeSJTU/CS3324-IQA)** - Multi-scale feature pyramid network for image quality assessment | `TeX`
-- **[CS2602](https://github.com/ukeSJTU/CS2602)** ⭐5 - Data Structures course materials and homework solutions | `C++`
-- **[AI3603-HW1](https://github.com/ukeSJTU/AI3603-HW1)** - Artificial Intelligence course homework solutions | `Python`
-- **[minnow](https://github.com/ukeSJTU/minnow)** - CS144 networking project implementation | `C++`
-- **[ICE2606](https://github.com/ukeSJTU/ICE2606)** - Lab instructions and solutions | `Python`
-- **[EE120](https://github.com/ukeSJTU/EE120)** ⭐37 - UC Berkeley EE120 course backup | `Course Materials`
+-   **[CS3324-IQA](https://github.com/ukeSJTU/CS3324-IQA)** - Multi-scale feature pyramid network for image quality assessment | `TeX`
+-   **[CS2602](https://github.com/ukeSJTU/CS2602)** ⭐5 - Data Structures course materials and homework solutions | `C++`
+-   **[AI3603-HW1](https://github.com/ukeSJTU/AI3603-HW1)** - Artificial Intelligence course homework solutions | `Python`
+-   **[minnow](https://github.com/ukeSJTU/minnow)** - CS144 networking project implementation | `C++`
+-   **[ICE2606](https://github.com/ukeSJTU/ICE2606)** - Lab instructions and solutions | `Python`
+-   **[EE120](https://github.com/ukeSJTU/EE120)** ⭐37 - UC Berkeley EE120 course backup | `Course Materials`
 
 ### 🛠️ Tools & Utilities
 
-- **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** ⭐2 - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
-- **[Capsule](https://github.com/ukeSJTU/Capsule)** - Lightweight data sync solution across devices | `Self-hosted`
-- **[pdf-tools](https://github.com/ukeSJTU/pdf-tools)** - Online PDF toolbox with PyPDF2 and Streamlit | `Python`
-- **[clc-db](https://github.com/ukeSJTU/clc-db)** ⭐2 - Database management tool | `JavaScript`
-- **[Docset4Dash](https://github.com/ukeSJTU/Docset4Dash)** - Convert docs to Dash docset format | `GitHub Actions`
-- **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
+-   **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** ⭐2 - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
+-   **[Capsule](https://github.com/ukeSJTU/Capsule)** - Lightweight data sync solution across devices | `Self-hosted`
+-   **[pdf-tools](https://github.com/ukeSJTU/pdf-tools)** - Online PDF toolbox with PyPDF2 and Streamlit | `Python`
+-   **[clc-db](https://github.com/ukeSJTU/clc-db)** ⭐2 - Database management tool | `JavaScript`
+-   **[Docset4Dash](https://github.com/ukeSJTU/Docset4Dash)** - Convert docs to Dash docset format | `GitHub Actions`
+-   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
 
 ### 🎨 Personal Projects & Applications
 
-- **[Nomad](https://github.com/ukeSJTU/Nomad)** ⭐4 - Modern online travel agency platform | `TypeScript`
-- **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent`
-- **[whisper](https://github.com/ukeSJTU/whisper)** - Project with comprehensive documentation site | `Python`
-- **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript`
-- **[taobei-app](https://github.com/ukeSJTU/taobei-app)** 🍴3 - Mobile application | `TypeScript`
-- **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
+-   **[Nomad](https://github.com/ukeSJTU/Nomad)** ⭐4 - Modern online travel agency platform | `TypeScript`
+-   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent`
+-   **[whisper](https://github.com/ukeSJTU/whisper)** - Project with comprehensive documentation site | `Python`
+-   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript`
+-   **[taobei-app](https://github.com/ukeSJTU/taobei-app)** 🍴3 - Mobile application | `TypeScript`
+-   **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
 
 ---
 
@@ -89,8 +89,6 @@
 
 ![Snake animation](https://github.com/ukeSJTU/ukeSJTU/blob/output/github-contribution-grid-snake.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ukeSJTU&theme=tokyo-night&hide_border=true)
-
 ---
 
 ## 📫 Let's Connect!
@@ -101,7 +99,7 @@
 
 ---
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
 **Thanks for visiting! 😊**
 

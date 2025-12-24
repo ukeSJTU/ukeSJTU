@@ -12,7 +12,7 @@
 
 🎓 Student at Shanghai Jiao Tong University (SJTU)  
 💻 Passionate about AI, Full-Stack Development, and System Programming  
-🌱 Working on multi-agent frameworks, web applications, and ML projects  
+🌱 Working on full-stack web applications
 🔧 Experienced with Python, TypeScript, C++, and various frameworks  
 📫 Feel free to reach out for collaborations or just a chat!
 
@@ -21,40 +21,37 @@
 ## 📊 GitHub Statistics
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ukeSJTU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/ukeSJTU)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ukeSJTU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/ukeSJTU)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ukeSJTU&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🎯 Featured Repositories
 
-### 📚 Academic & Course Projects
+### Academic & Course Projects
 
--   **[CS3324-IQA](https://github.com/ukeSJTU/CS3324-IQA)** - Multi-scale feature pyramid network for image quality assessment | `TeX`
--   **[CS2602](https://github.com/ukeSJTU/CS2602)** ⭐5 - Data Structures course materials and homework solutions | `C++`
--   **[AI3603-HW1](https://github.com/ukeSJTU/AI3603-HW1)** - Artificial Intelligence course homework solutions | `Python`
--   **[minnow](https://github.com/ukeSJTU/minnow)** - CS144 networking project implementation | `C++`
--   **[ICE2606](https://github.com/ukeSJTU/ICE2606)** - Lab instructions and solutions | `Python`
--   **[EE120](https://github.com/ukeSJTU/EE120)** ⭐37 - UC Berkeley EE120 course backup | `Course Materials`
 
-### 🛠️ Tools & Utilities
+-   **[SJTU-CS3324-Final](https://github.com/ukeSJTU/CS3324-IQA)** - Multi-scale feature pyramid network for image quality assessment | `TeX`
+-   **[SJTU-CS2602](https://github.com/ukeSJTU/CS2602)** - Data Structures course materials and homework solutions | `C++`
+-   **[SJTU-AI3603-HW1](https://github.com/ukeSJTU/AI3603-HW1)** - Artificial Intelligence course homework solutions | `Python`
+-   **[SJTU-ICE2606](https://github.com/ukeSJTU/ICE2606)** - Lab instructions and solutions | `Python`
+-   **[SJTU-CS3611-whisper](https://github.com/ukeSJTU/whisper)** - Lab instructions and solutions | `Python`
+-   **[SJTU-CS3604-Final](https://github.com/ukeSJTU/Nomad)** - Modern online travel agency platform | `TypeScript`
+-   **[UCB-EE120](https://github.com/ukeSJTU/EE120)** - UC Berkeley EE120 course backup | `Course Materials`
+-   **[Stanford-CS144-minnow](https://github.com/ukeSJTU/minnow)** - CS144 networking project implementation | `C++`
 
--   **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** ⭐2 - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
+### Tools & Utilities
+
+-   **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
 -   **[Capsule](https://github.com/ukeSJTU/Capsule)** - Lightweight data sync solution across devices | `Self-hosted`
 -   **[pdf-tools](https://github.com/ukeSJTU/pdf-tools)** - Online PDF toolbox with PyPDF2 and Streamlit | `Python`
--   **[clc-db](https://github.com/ukeSJTU/clc-db)** ⭐2 - Database management tool | `JavaScript`
 -   **[Docset4Dash](https://github.com/ukeSJTU/Docset4Dash)** - Convert docs to Dash docset format | `GitHub Actions`
 -   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
 
-### 🎨 Personal Projects & Applications
+### Personal Projects & Applications
 
--   **[Nomad](https://github.com/ukeSJTU/Nomad)** ⭐4 - Modern online travel agency platform | `TypeScript`
--   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent`
--   **[whisper](https://github.com/ukeSJTU/whisper)** - Project with comprehensive documentation site | `Python`
--   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript`
--   **[taobei-app](https://github.com/ukeSJTU/taobei-app)** 🍴3 - Mobile application | `TypeScript`
 -   **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
+-   **[clc-db](https://github.com/ukeSJTU/clc-db)** - Database management tool | `JavaScript`
+-   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent`
+-   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript`
 
 ---
 

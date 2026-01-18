@@ -12,7 +12,7 @@
 
 🎓 Student at Shanghai Jiao Tong University (SJTU)  
 💻 Passionate about AI, Full-Stack Development, and System Programming  
-🌱 Working on full-stack web applications
+🌱 Working on full-stack web applications  
 🔧 Experienced with Python, TypeScript, C++, and various frameworks  
 📫 Feel free to reach out for collaborations or just a chat!
 
@@ -26,8 +26,23 @@
 
 ## 🎯 Featured Repositories
 
-### Academic & Course Projects
+### Personal Projects & Applications
 
+-   **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
+-   **[clc-db](https://github.com/ukeSJTU/clc-db)** - Database management tool | `JavaScript`
+-   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
+    <!-- -   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent` -->
+    <!-- -   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript` -->
+
+### Tools & Utilities
+
+-   **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
+<!-- -   **[Capsule](https://github.com/ukeSJTU/Capsule)** - Lightweight data sync solution across devices | `Self-hosted` -->
+-   **[reqtrace](https://github.com/ukeSJTU/reqtrace)** - Trace between requirements and test cases | `Rust`
+-   **[pdf-tools](https://github.com/ukeSJTU/pdf-tools)** - Online PDF toolbox with PyPDF2 and Streamlit | `Python`
+-   **[Docset4Dash](https://github.com/ukeSJTU/Docset4Dash)** - Convert docs to Dash docset format | `GitHub Actions`
+
+### Academic & Course Projects
 
 -   **[SJTU-CS3324-Final](https://github.com/ukeSJTU/CS3324-IQA)** - Multi-scale feature pyramid network for image quality assessment | `TeX`
 -   **[SJTU-CS2602](https://github.com/ukeSJTU/CS2602)** - Data Structures course materials and homework solutions | `C++`
@@ -38,20 +53,13 @@
 -   **[UCB-EE120](https://github.com/ukeSJTU/EE120)** - UC Berkeley EE120 course backup | `Course Materials`
 -   **[Stanford-CS144-minnow](https://github.com/ukeSJTU/minnow)** - CS144 networking project implementation | `C++`
 
-### Tools & Utilities
+### CodeCrafters Series
 
--   **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
--   **[Capsule](https://github.com/ukeSJTU/Capsule)** - Lightweight data sync solution across devices | `Self-hosted`
--   **[pdf-tools](https://github.com/ukeSJTU/pdf-tools)** - Online PDF toolbox with PyPDF2 and Streamlit | `Python`
--   **[Docset4Dash](https://github.com/ukeSJTU/Docset4Dash)** - Convert docs to Dash docset format | `GitHub Actions`
--   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
+> [CodeCraters](https://codecrafters.io/) is a really fun platform to learn low-level programming by building things from scratch! Below are my solutions to some of their projects.
 
-### Personal Projects & Applications
-
--   **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
--   **[clc-db](https://github.com/ukeSJTU/clc-db)** - Database management tool | `JavaScript`
--   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent`
--   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript`
+-   **Git** - Learn about git objects, plumbing commands and more | [`python`](https://github.com/ukeSJTU/codecrafters-git-python)
+-   **Sqlite** - Learn about SQL syntax, SQLite's file format, B-trees and more | [`python`](https://github.com/ukeSJTU/codecrafters-sqlite-python)
+-   **Shell** - Learn about parsing shell commands, executing programs and more | [`python`](https://github.com/ukeSJTU/codecrafters-shell-python)
 
 ---
 
@@ -64,6 +72,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frameworks & Libraries**
 

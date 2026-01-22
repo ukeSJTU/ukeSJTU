@@ -28,9 +28,12 @@
 
 ### Personal Projects & Applications
 
+-   **[ukeSJTU](https://github.com/ukeSJTU/ukeSJTU)** - My personal website and portfolio | `markdown`
 -   **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
 -   **[clc-db](https://github.com/ukeSJTU/clc-db)** - Database management tool | `JavaScript`
 -   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
+-   **[Exercism](https://github.com/ukeSJTU/ExercismBackup)** - My solutions to Exercism coding exercises | `Multi`
+-   **[ArchiBIM](https://github.com/ukeSJTU/ArchiBIM)** - A landing page for ArchiBIM company | `Astro`
     <!-- -   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent` -->
     <!-- -   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript` -->
 
@@ -74,6 +77,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Typst](https://img.shields.io/badge/-Typst-FF3E00?style=flat-square&logo=typst&logoColor=white)
 
 **Frameworks & Libraries**
 

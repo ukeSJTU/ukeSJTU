@@ -34,7 +34,7 @@
 -   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
 -   **[Exercism](https://github.com/ukeSJTU/ExercismBackup)** - My solutions to Exercism coding exercises | `Multi`
 -   **[ArchiBIM](https://github.com/ukeSJTU/ArchiBIM)** - A landing **page** for ArchiBIM company | `Astro`
--   **[WebIlluminator](https://github.com/ukeSJTU/WebIlluminator)** - A web extension that fixes broken a11y issues | `JavaScript`
+-   **[WebIlluminator](https://github.com/ukeSJTU/lumina-a11y)** - A web extension that fixes broken a11y issues | `JavaScript`
     <!-- -   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent` -->
     <!-- -   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript` -->
 

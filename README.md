@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ukeSJTU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/ukeSJTU)
+[![GitHub Stats](https://raw.githubusercontent.com/ukeSJTU/ukeSJTU/output/github-stats.svg)](https://github.com/ukeSJTU)
 
 ---
 

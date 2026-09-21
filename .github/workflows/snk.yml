@@ -1,14 +1,31 @@
-name: Generate Snake Eating Animation
+name: Generate Profile Assets
 
 on:
     workflow_dispatch:
+    push:
+        branches:
+            - main
+        paths:
+            - .github/workflows/snk.yml
+            - README.md
     schedule:
         - cron: "0 */6 * * *"
 
 jobs:
-    snake-animation:
+    profile-assets:
         runs-on: ubuntu-latest
+        permissions:
+            contents: write
         steps:
+            - name: Generate GitHub Statistics Card
+              uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2
+              with:
+                  card: stats
+                  options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true
+                  path: dist/github-stats.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  fail_on_error: true
+
             - name: Generate Snake Animation
               uses: Platane/snk@main
               id: snake-gif

@@ -29,21 +29,14 @@
 ### Personal Projects & Applications
 
 -   **[ukeSJTU](https://github.com/ukeSJTU/ukeSJTU)** - My personal website and portfolio | `markdown`
--   **[ChemNexus](https://github.com/ukeSJTU/ChemNexus)** - Chemical molecules information hub | `JavaScript`
 -   **[clc-db](https://github.com/ukeSJTU/clc-db)** - Database management tool | `JavaScript`
--   **[wyag](https://github.com/ukeSJTU/wyag)** - Write Yourself a Git implementation learning | `Python`
 -   **[Exercism](https://github.com/ukeSJTU/ExercismBackup)** - My solutions to Exercism coding exercises | `Multi`
--   **[ArchiBIM](https://github.com/ukeSJTU/ArchiBIM)** - A landing **page** for ArchiBIM company | `Astro`
 -   **[WebIlluminator](https://github.com/ukeSJTU/lumina-a11y)** - A web extension that fixes broken a11y issues | `JavaScript`
-    <!-- -   **[YAMAF](https://github.com/ukeSJTU/YAMAF)** - Yet Another Multi Agents Framework | `Multi-Agent` -->
-    <!-- -   **[mosaic](https://github.com/ukeSJTU/mosaic)** - Web application project | `TypeScript` -->
 
 ### Tools & Utilities
 
 -   **[coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim)** - Listen to freeCodeCamp's Code Radio in Neovim | `Lua`
-<!-- -   **[Capsule](https://github.com/ukeSJTU/Capsule)** - Lightweight data sync solution across devices | `Self-hosted` -->
 -   **[reqtrace](https://github.com/ukeSJTU/reqtrace)** - Trace between requirements and test cases | `Rust`
--   **[pdf-tools](https://github.com/ukeSJTU/pdf-tools)** - Online PDF toolbox with PyPDF2 and Streamlit | `Python`
 -   **[Docset4Dash](https://github.com/ukeSJTU/Docset4Dash)** - Convert docs to Dash docset format | `GitHub Actions`
 
 ### Academic & Course Projects
@@ -55,7 +48,6 @@
 -   **[SJTU-CS3611-whisper](https://github.com/ukeSJTU/whisper)** - Lab instructions and solutions | `Python`
 -   **[SJTU-CS3604-Final](https://github.com/ukeSJTU/Nomad)** - Modern online travel agency platform | `TypeScript`
 -   **[UCB-EE120](https://github.com/ukeSJTU/EE120)** - UC Berkeley EE120 course backup | `Course Materials`
--   **[Stanford-CS144-minnow](https://github.com/ukeSJTU/minnow)** - CS144 networking project implementation | `C++`
 
 ### CodeCrafters Series
 
